@@ -1,0 +1,3 @@
+# HTTPS
+
+Giao thức HTTP sử dụng TCP đơn giản làm cơ chế vận chuyển của nó, cơ chế này không được mã hóa và do đó có thể bị chặn bởi kẻ tấn công có vị trí thích hợp trong mạng. HTTPS về cơ bản là giao thức lớp ứng dụng giống như HTTP nhưng được tạo đường hầm qua cơ chế vận chuyển an toàn, Lớp cổng bảo mật (SSL). Điều này bảo vệ quyền riêng tư và tính toàn vẹn của dữ liệu truyền qua mạng, giảm khả năng tấn công đánh chặn không xâm lấn. Các yêu cầu và phản hồi HTTP hoạt động theo cùng một cách, bất kể SSL có được sử dụng để vận chuyển hay không.
